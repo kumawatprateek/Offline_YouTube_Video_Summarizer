@@ -1,0 +1,5 @@
+Python is a high-level interpreted programming language famous for
+ its Zen-like code. It's commonly used to build server-side applications,
+ like web apps with the Django framework. Python is a multi-paradigm language.
+  We can apply functional programming patterns with things like anonymous
+  functions using Lambda.
